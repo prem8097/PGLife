@@ -1,0 +1,23 @@
+.l{
+    display:flex;
+    border:solid 2px black;
+    width:900px;
+    flex-flow:row wrap;
+    /*justify-content:center;applied only when there is a available space*/
+    justify-content:flex-end;
+    justify-content:space-around;
+    /*flex-direction:row;
+    flex-wrap:wrap - it is applied only when there is a defict space;*/
+}
+.m{
+ flex-basis:200px;
+ border:solid 2px blue;
+ /*flex-grow:1;*/
+ align-self:center;
+ 
+}
+.n{
+    
+    border:solid 2px blue;
+    flex:0 1 400px;
+}

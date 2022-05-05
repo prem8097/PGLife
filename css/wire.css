@@ -1,0 +1,99 @@
+*{
+    box-sizing:border-box;
+}
+.r{
+    border:solid 2px black;
+    height:150px;
+    font-size:0px;
+}
+/*
+used when the height is not given explicitly in the row,since it takes 0px by default
+.r::after
+{
+    display:block;
+    content:"";
+    clear:both;
+}
+*/
+.l{
+    border:solid 2px black;
+    /*display:inline-block;*/
+    float:left;
+    height:100%;
+    width:33.33%; 
+}
+.m
+{
+    border:solid 2px black;
+    /*display:inline-block;*/
+    float:left;
+    height:100%;
+    width:50%;
+
+}
+.n
+{
+    border:solid 2px black;
+    height:50%;
+    width:100%;
+}
+.j{
+    border:solid 2px black;
+    /*display:inline-block;*/
+    float:left;
+    height:100%;
+    width:23.33%;
+}
+.i
+{
+    border:solid 2px black;
+    /*display:inline-block;*/
+    float:left;
+    height:100%;
+    width:31.33%;
+}
+.o
+{
+    border:solid 2px black;
+    /*display:inline-block;*/
+    float:left;
+    height:100%;
+    width:45.33%;
+}
+.k
+{
+    border:solid 2px black;
+    height:50%;
+    width:100%;
+}
+.x
+{
+    border:solid 2px black;
+    /*display:inline-block;*/
+    float:left;
+    height:101.5%;
+    width:50%;
+    
+}
+.y
+{
+    border:solid 2px black;
+    height:33.33%;
+    width:100%;
+}
+.a
+{
+    border:solid 2px black;
+    /*display:inline-block;*/
+    float:left;
+    height:100%;
+    width:50%;
+}
+.b
+{
+    border:solid 2px black;
+    /*display:inline-block;*/
+    float:left;
+    height:100%;
+    width:50%;
+}

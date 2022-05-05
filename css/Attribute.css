@@ -1,0 +1,19 @@
+input[type="text"]{
+    color:red;
+}
+input[type="button"]{
+    color:blue;
+    background-color:aqua;
+}
+h1{
+    color:blue;
+    text-align:center;
+}
+textarea{
+    color:crimson;
+    background-color: darkkhaki;
+}
+label{
+    color:blue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

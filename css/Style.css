@@ -1,0 +1,130 @@
+
+
+._123{
+    color:dimgrey;
+    font-style: oblique;
+    font-size: larger;
+    font-weight:bold;
+    line-height: 27px;
+    /*border-style:solid;
+    border-color:black;
+    border-width:2px;
+    padding:10px;
+    */
+    /*can be simply written using border:solid 2px blue*/
+}
+ol{
+    color:black;
+    line-height:30px;
+    font-style:italic;
+    font-weight:bold;
+    font-size:larger;
+}
+ul{
+    color:dimgray;
+    line-height:30px;
+    font-style:italic;
+    font-weight:bold;
+    font-size:larger;
+}
+dd{
+    color:dimgray; 
+    line-height:30px;
+    font-style:italic;
+    font-weight:bold;
+    font-size:larger;
+}
+.jio{
+    color:black;
+    font-size:30px;
+    font-style:oblique
+}
+
+/*Combination selectors*/
+img{
+    max-width: 1024px;
+}
+
+.lio{
+    text-align:center;
+}
+.neo{
+    text-align:left;
+    font-size:30px;
+    font-style:italic;
+    font-weight:bold;
+
+}
+#kim{
+    text-align:center;
+    text-decoration:underline;
+    font-style:italic;
+    font-weight:bold;
+    color:black;
+    background-color:darkgrey;
+}
+.prem{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+body{
+    border-style:solid;
+    border-color:grey;
+    border-width:2px;
+    padding:20px 20px 20px 20px;
+    margin:40px;
+    position:relative;
+    /*if only first value(top padding) is written then it takes same value for remaining values also*/
+}
+.w{
+    display:inline;
+}
+.rrr{
+    font-weight:bold;
+    font-style:italic;
+    font-size:30px;
+}
+.l{
+    font-style:italic;
+    font-size:larger;
+    line-height:35px;
+}
+.g{
+    font-size:20px;
+    font-style:italic;
+    font-weight:bold;
+}
+.end{
+    text-align:right;
+    font-size:20px;
+}
+.d{
+    font-style:italic;
+    font-weight:bold;
+    font-size:25px;
+    color:black
+}
+.f{
+    color:dimgrey;
+    font-weight:bold;
+    font-style:oblique;
+    font-size:23px;
+}
+.pos{
+    position:absolute;
+    bottom:800px;
+    right:75px;
+    height:360px;
+    width:580px;
+}
+.sos{
+    position:absolute;
+    bottom:1420px;
+    right:455px;
+    height:230px;
+}
+.carousel-inner > .carousel-item{
+height:600px;
+width:2000px;
+}

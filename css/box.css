@@ -1,0 +1,17 @@
+
+
+#c{
+    border-style:dashed;
+    border-width:5px;
+    border-color:blue;
+    padding-right:10px;
+    position:relative;
+    top:190px;
+    left:60px;
+
+}
+.a{
+    display:inline;
+    border-top:solid 5px aqua;
+    padding-bottom:10px;
+}
