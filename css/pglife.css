@@ -11,7 +11,7 @@
 {
     position:absolute;
     top:240px;
-    left:400px;
+    left:35%;
     filter:brightness(100%);
     color:white;
 }
@@ -19,7 +19,8 @@
 {
     position:absolute;
     top:300px;
-    left:300px;
+    left:30%;
+    right:50%;
     
 }
 
@@ -43,12 +44,12 @@
     height:auto;
 }
 */
-.city-heading
+/*.city-heading
 {
     position:absolute;
     top:-40px;
     left:320px;
-}
+}*/
 .jio
 {
     position:absolute;
@@ -102,6 +103,8 @@
 {
     color:white;
     justify-content:space-around;
+    text-decoration:none;
+    padding-left:30%;
 }
 .footer
 {
@@ -113,7 +116,4 @@
     border-width:2px;
     border
 }
-.fa-search
-{
-    width:40%;
-}
+
