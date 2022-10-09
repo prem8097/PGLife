@@ -18,7 +18,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
-                  <img src="img/logo.png" alt="x" width="100" height="54">
+                  <img src="img/logo.png" alt="x" width="100" height="54.3">
                 </a>
                 <button type="button" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mynavbar">
                   <span class="navbar-toggler-icon" ></span>
